@@ -1,0 +1,4 @@
+site_name: drf-conditions
+site_description: Build Django REST Framework permissions using small reusable components.
+repo_url: https://github.com/NextHub/drf-conditions
+site_dir: html
